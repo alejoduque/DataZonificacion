@@ -1,4 +1,7 @@
-# DataZonContaMinacion
+<img src="https://raw.githubusercontent.com/alejoduque/DataZonContaMinacion/master/ckweb_ansi.png" /> <br>
+# Taller de DataZonificacion
+
+ContaMinacion
 
 
 ## Soundwalk - Sonificacion de Datos de Contaminacion
