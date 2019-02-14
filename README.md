@@ -19,17 +19,17 @@ ContaMinacion
 
 
 
--Soundwalk con dispo autonomo (Kristina Kubish)
--Enviar datos via OSC (UDP) del AQA al Rpi et al
--Marzo 3 llega YV
--Supercollider como punto de partida (pd bienvenido)
--Sound spat en otro taller - vemos mas binaural y similar
--Traer compu personal
--Trabajermos con la rpi, necesitamos pantallas y teclados
--router para las x# de rpi
--necesitamos mas AQA's cuantas mas?
--Prototipo max 4 
--cupo 14 personas
--como dejar el dispositivo en propiedad de YV
+-Soundwalk con dispo autonomo (Kristina Kubish)<br>
+-Enviar datos via OSC (UDP) del AQA al Rpi et al.<br>
+-Marzo 3 llega YV <br>
+-Supercollider como punto de partida (pd bienvenido).<br>
+-Sound spat en otro taller - vemos mas binaural y similar.<br>
+-Traer compu personal.<br>
+-Trabajermos con la rpi, necesitamos pantallas y teclados.<br>
+-router para las x# de rpi.<br>
+-necesitamos mas AQA's cuantas mas?<br>
+-Prototipo max 4 <br>
+-cupo 14 personas<br>
+-como dejar un dispositivo en propiedad de YV?<br>
 
 
