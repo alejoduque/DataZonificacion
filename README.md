@@ -1,15 +1,11 @@
 <img src="https://raw.githubusercontent.com/alejoduque/DataZonContaMinacion/master/ckweb_ansi.png" /> <br>
+
 # Taller de DataZonificacion
 
+<img src="https://raw.githubusercontent.com/alejoduque/DataZonContaMinacion/master/borrador1.png" /> <br>
 Conta:Minacion
 
 ## Soundwalk - Sonificacion de Datos de Contaminacion
-
-<img src="https://raw.githubusercontent.com/alejoduque/DataZonContaMinacion/master/borrador1.png" /> <br>
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<a href=https://http://88.99.123.96/agentes-sensores> Calidad del Aire</a> &
-::::::::::::::::::::::::::::::::::::::::::::::::::::::
-<a href=https://ckweb.gov.co/> | ckweb </a>
-
 
 
 
@@ -26,4 +22,9 @@ Conta:Minacion
 -cupo 14 personas<br>
 -como dejar un dispositivo en propiedad de YV?<br>
 
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<a href=https://http://88.99.123.96/agentes-sensores> Calidad del Aire</a> &
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+<a href=https://ckweb.gov.co/> | ckweb </a>
 
