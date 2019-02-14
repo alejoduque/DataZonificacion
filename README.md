@@ -6,12 +6,9 @@ Conta:Minacion
 ## Soundwalk - Sonificacion de Datos de Contaminacion
 
 <img src="https://raw.githubusercontent.com/alejoduque/DataZonContaMinacion/master/borrador1.png" /> <br>
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<a href=https://#> Calidad del Aire</a> &
-<a href=http://#> Georeferenciaminto</a> <BR>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::<a href=https://http://88.99.123.96/agentes-sensores> Calidad del Aire</a> &
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::
 <a href=https://ckweb.gov.co/> | ckweb </a>
-
-
 
 
 
