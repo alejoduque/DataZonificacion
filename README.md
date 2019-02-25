@@ -5,12 +5,12 @@
 
 Este taller tiene como objetivo crear un dispositivo que nos permita 'escuchar la contaminacion del aire' al realizar una deriva por las calles de la ciudad (Soundwalk). <br>
 
-El taller servira para aprender a trabajar con el software SuperCollider. Los y las asistentes podran instalarlo en sus propios equipos y entre todos compartiremos como usarlo para, a partir de datos que provienen de la medicion de sensores de material particulado (pm2.5), generar sintesis sonara en tiempo real (DSP). El soporte sera la plataforma de computacion RaspberryPi.
+El taller servira para aprender a trabajar con el software **SuperCollider**. Los y las asistentes podran instalarlo en sus propios equipos y entre todos compartiremos como usarlo para, a partir de datos que provienen de la medicion de sensores de material particulado (pm2.5), generar sintesis sonara en tiempo real (DSP - Digital Sound Processing). El soporte sera la plataforma de computacion ***RaspberryPi***.
 
 ### Durante el taller tomaremos en cuenta las siguientes consideraciones tecnicas:
 
--Enviar datos via OSC (UDP) del AQA (Medidor de Calidad del Aire) a la Rpi RaspberryPi <br>
--Supercollider como Software (pd bienvenido).<br>
+-Enviar datos via ***OSC*** Open Sound Control (UDP - Envio de paquetes) del AQA de un\loquer (Medidor de Calidad del Aire) a la Rpi RaspberryPi <br>
+-***Supercollider*** como Software (pd PureData es tambien bienvenido).<br>
 -Como subproductos podremos explorar nociones de espacializacion sonora, inicialmente de manera binaural.<br>
 -Se desarrollaran 4 modelos que obedeceran al diseño conjunto de 1 prototipo inicial. <br>
 
