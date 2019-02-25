@@ -14,9 +14,11 @@ El taller servira para aprender a trabajar con el software SuperCollider. Los y 
 -Como subproductos podremos explorar nociones de espacializacion sonora, inicialmente de manera binaural.<br>
 -Se desarrollaran 4 modelos que obedeceran al diseño conjunto de 1 prototipo inicial. <br>
 
-## Fecha: Marzo 
-## Cupo: 14 Personas
-## Abierto (por convocatoria?)
+### Dirigido por: Yvan Volochine & CKWEB / Linea de Arte, Ciencia y Tecnologia (Idartes)
+### Lugar: Plataforma Bogota Calle 10 No. 4 - 28 
+### Fecha: Marzo 
+### Cupo: 14 Personas
+### Abierto (por convocatoria?)
 
 
 #### Requerimentos y Consideraciones:
