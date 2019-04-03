@@ -6,9 +6,9 @@
 
 <img src="https://raw.githubusercontent.com/alejoduque/DataZonContaMinacion/master/cascozonificacion.png" /> <br>
 
-Este taller tiene como objetivo crear un dispositivo que nos permita 'escuchar la contaminacion del aire' al realizar una deriva por las calles de la ciudad (Soundwalk) https://en.wikipedia.org/wiki/Soundwalk (definir SoundWalk en Español). <br>
+Este taller tiene como objetivo crear un dispositivo/prototipo que nos permita 'escuchar la contaminacion del aire' al realizar una deriva por las calles de la ciudad (Soundwalk) https://en.wikipedia.org/wiki/Soundwalk (definir SoundWalk en Español). <br>
 
-El taller servira para aprender a trabajar con el software **SuperCollider**. Los y las asistentes podran instalarlo en sus propios equipos y entre todos compartiremos como usarlo para, a partir de datos que provienen de la medicion de sensores de material particulado (pm2.5), generar sintesis sonara en tiempo real (DSP - Digital Sound Processing). El soporte sera la plataforma de computacion **RaspberryPi**.
+El taller servira para aprender a trabajar con el software **SuperCollider** o **Pd** o **Max/MSP**. Los y las asistentes podran instalarlo en sus propios equipos y entre todos compartiremos como usarlo para, a partir de datos que provienen de la medicion de sensores de material particulado (pm2.5), generar sintesis sonara en tiempo real (DSP - Digital Sound Processing). El soporte sera la plataforma de computacion **RaspberryPi**.
 
 ### Durante el taller tomaremos en cuenta las siguientes consideraciones tecnicas:
 
@@ -18,7 +18,7 @@ El taller servira para aprender a trabajar con el software **SuperCollider**. Lo
 -Se desarrollaran 4 modelos que obedeceran al diseño conjunto de 1 prototipo inicial. <br>
 
 ### Dirigido por: 
-Yvan Volochine & CKWEB / Linea de Arte, Ciencia y Tecnologia (Idartes)
+CKWEB / Linea de Arte, Ciencia y Tecnologia (Idartes)
 ### Lugar: 
 Plataforma Bogota Calle 10 No. 4 - 28 
 ### Fecha: 
@@ -27,12 +27,18 @@ Marzo Viernes 15 y Sabado 16
 14 Personas
 ### Abierto (por convocatoria?)
 
+#### Referentes del arte Sonoro:
+Martin Howse
+Cristina Kubish 
+
 
 #### Requerimentos y Consideraciones:
 
 -Traer compu personal.<br>
 -Trabajermos con la rpi, necesitamos pantallas y teclados.<br>
 -Router para las x# de rpi.<br>
+
+#### Requerimentos y Consideraciones:
 -Necesitamos mas AQA's cuantas mas?<br>
 -Dejar un dispositivo en propiedad de YV?<br>
 
