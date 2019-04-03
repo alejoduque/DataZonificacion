@@ -4,7 +4,7 @@
 ## S/Zonificacion de Datos de Contaminacion. 
 
 
-<img src="https://raw.githubusercontent.com/alejoduque/DataZonContaMinacion/master/ckweb_ansi.png" /> <br>
+<img src="https://raw.githubusercontent.com/alejoduque/DataZonContaMinacion/master/cascozonificacion.png" /> <br>
 
 Este taller tiene como objetivo crear un dispositivo que nos permita 'escuchar la contaminacion del aire' al realizar una deriva por las calles de la ciudad (Soundwalk) https://en.wikipedia.org/wiki/Soundwalk (definir SoundWalk en Español). <br>
 
