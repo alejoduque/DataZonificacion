@@ -6,6 +6,8 @@
 
 <img src="https://raw.githubusercontent.com/alejoduque/DataZonContaMinacion/master/cascozonificacion.png" /> <br>
 
+###### img c. kubish
+
 Este taller tiene como objetivo crear un dispositivo/prototipo que nos permita 'escuchar la contaminacion del aire' al realizar una deriva por las calles de la ciudad (Soundwalk) https://en.wikipedia.org/wiki/Soundwalk (definir SoundWalk en Español). <br>
 
 El taller servira para aprender a trabajar con el software **SuperCollider** o **Pd** o **Max/MSP**. Los y las asistentes podran instalarlo en sus propios equipos y entre todos compartiremos como usarlo para, a partir de datos que provienen de la medicion de sensores de material particulado (pm2.5), generar sintesis sonara en tiempo real (DSP - Digital Sound Processing). El soporte sera la plataforma de computacion **RaspberryPi**.
