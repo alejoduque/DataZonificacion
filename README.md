@@ -20,13 +20,13 @@ El taller servira para aprender a trabajar con el software **SuperCollider** o *
 -Se desarrollaran 4 modelos que obedeceran al diseño conjunto de 1 prototipo inicial. <br>
 
 ### Dirigido por: 
-CKWEB / Linea de Arte, Ciencia y Tecnologia (Idartes)
+
 ### Lugar: 
-Plataforma Bogota Calle 10 No. 4 - 28 
+
 ### Fecha: 
-Marzo Viernes 15 y Sabado 16
+
 ### Cupo: 
-14 Personas
+
 ### Abierto (por convocatoria?)
 
 #### Referentes del arte Sonoro:
