@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/alejoduque/DataZonContaMinacion/master/ckweb_ansi.png" /> <br>
-
 # Taller de DataZonificacion
 ## S/Zonificacion de Datos de Contaminacion. 
 
