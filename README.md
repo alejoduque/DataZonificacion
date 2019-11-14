@@ -19,15 +19,7 @@ El taller servira para aprender a trabajar con el software **SuperCollider** o *
 -Como subproductos podremos explorar nociones de espacializacion sonora, inicialmente de manera binaural.<br>
 -Se desarrollaran 4 modelos que obedeceran al diseño conjunto de 1 prototipo inicial. <br>
 
-### Dirigido por: 
 
-### Lugar: 
-
-### Fecha: 
-
-### Cupo: 
-
-### Abierto (por convocatoria?)
 
 #### Referentes del arte Sonoro:
 Martin Howse
