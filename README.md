@@ -38,5 +38,5 @@ Cristina Kubish
 <img src="https://raw.githubusercontent.com/alejoduque/DataZonContaMinacion/master/borrador1.png" /> <br>
 Conta:Minacion
 
-:::::::::::::::::::::::::::::::::<a href=https://http://88.99.123.96/agentes-sensores> Calidad del Aire un/loquer </a>:::::::::::::
+::::::::::::::::::::::::::::::> Calidad del Aire un/loquer <::::::::
 
